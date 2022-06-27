@@ -774,7 +774,7 @@ section {
 --------------------------------------------------------------*/
 
 .cta {
-    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("/spevents/img/gallery/10.jpeg") fixed center center;
+    background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("img/gallery/10.jpeg") fixed center center;
     background-size: cover;
     padding: 60px 0;
 }
