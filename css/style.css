@@ -1669,6 +1669,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     }
 }
 
+@media (max-width: 348px) {
+    .loader {
+        left: -20px
+    }
+}
+
 @media (max-width: 991px) {
     #header {
         background: white;
@@ -1806,8 +1812,8 @@ preloader
     position: absolute;
     display: flex;
     justify-content: center;
-    height: 350px;
-    width: 350px;
+    height: 211px;
+    width: 346px;
     top: 25%;
     margin-bottom: 10%;
 }
@@ -1848,7 +1854,7 @@ preloader
 
 .preloader-inner {
     position: relative;
-    top: 70%;
+    top: 59%;
     width: 142px;
     height: 40px;
 }

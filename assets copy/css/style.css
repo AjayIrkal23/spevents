@@ -779,6 +779,15 @@ section {
     padding: 60px 0;
 }
 
+.create-magic {
+    position: relative;
+    bottom: 29px;
+    color: #cf2716 !important;
+    font-family: 'Satisfy', cursive;
+    font-weight: 200 !important;
+    left: 91px;
+}
+
 .cta h3 {
     color: #fff;
     font-size: 28px;
@@ -1082,6 +1091,11 @@ section {
     .counts .image img {
         max-width: 100%;
     }
+    #cta .create-magic {
+        color: white !important;
+        left: 25%;
+        bottom: 12px;
+    }
 }
 
 
@@ -1186,6 +1200,14 @@ section {
 @media (min-width: 1024px) {
     .testimonials {
         background-attachment: fixed;
+    }
+    .create-magic {
+        position: relative;
+        bottom: 29px;
+        color: #cf2716 !important;
+        font-family: 'Satisfy', cursive;
+        font-weight: 200 !important;
+        left: 200px;
     }
 }
 
