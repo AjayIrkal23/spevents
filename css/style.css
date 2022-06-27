@@ -1760,8 +1760,12 @@ body.mobile-nav-active #mobile-nav-toggle {
     }
 }
 
+.service-left {
+    margin-left: 3%;
+}
+
 .marg-left {
-    margin-left: 15%;
+    margin-left: 3.5%;
 }
 
 @media (max-width: 480px) {
@@ -1773,6 +1777,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (max-width:990px) {
     #about .col-lg-3 {
         margin-left: 0;
+    }
+    .service-left {
+        margin-left: 0%;
     }
 }
 
