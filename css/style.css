@@ -69,19 +69,6 @@ h6 {
     background: #fff url("../img/preloader.svg") no-repeat center center;
 }
 
-@keyframes scales {
-    0% {
-        transform: scale(1);
-    }
-    100% {
-        transform: scale(1.2);
-    }
-}
-
-.loader {
-    animation: scales 1.5s;
-}
-
 
 /* Back to top button */
 
