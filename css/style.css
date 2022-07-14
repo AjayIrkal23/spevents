@@ -1684,7 +1684,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 
 @media (max-width: 655px) {
     .preloader-inner {
-        margin-top: 12%;
+        margin-top: 16%;
     }
 }
 
