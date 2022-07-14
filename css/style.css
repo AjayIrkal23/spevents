@@ -72,6 +72,10 @@ h6 {
 
 /* Back to top button */
 
+.gallery-carousel .venobox img {
+    height: 250px !important;
+}
+
 .back-to-top {
     position: fixed;
     display: none;
@@ -1672,6 +1676,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 @media (max-width: 655px) {
     .preloader-inner {
         margin-top: 16%;
+    }
+    .phone-m {
+        height: 216px !important;
     }
 }
 
