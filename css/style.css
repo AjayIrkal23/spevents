@@ -1937,7 +1937,7 @@ preloader
 
 .site-footer
 {
-  background-color:#26272b;
+  background-color:#3d3d3b;
   padding:45px 0 20px;
   font-size:15px;
   line-height:24px;
@@ -1980,7 +1980,7 @@ preloader
 }
 .footer-links a
 {
-  color:#737373
+  color:#ffffff
 }
 .footer-links a:active,.footer-links a:focus,.footer-links a:hover
 {
@@ -2003,7 +2003,8 @@ preloader
   margin-left:6px;
   margin-right:0;
   border-radius:100%;
-  background-color:#33353d
+  color: black;
+  background-color:white
 }
 .copyright-text
 {
